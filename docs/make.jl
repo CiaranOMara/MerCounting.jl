@@ -19,7 +19,7 @@ makedocs(
 )
 
 deploydocs(
-    repo = "github.com/BioJulia/GenomeGraphs.jl.git",
+    repo = "github.com/BioJulia/MerCounting.jl.git",
     push_preview = true,
     deps = nothing,
     make = nothing
